@@ -167,15 +167,15 @@ Interpretação de confiabilidade[^3]: 0,6 < substancial < 0,8 < quase perfeito 
 - **RQ3**: Classificação e agrupamento têm incentivos concorrentes para dimensionalidade; Low D é melhor para a estabilidade do cluster, High D é melhor para a confiabilidade da classificação.
 
 
-# Trabajo futuro
+# Trabalho futuro
 
-- El estudio utiliza datos existentes de estudios anteriores recopilados de muchas clases de diferentes tamaños
-    - ni una sola clase grande
-    - esperamos que los resultados observados sean conservadores debido a la variabilidad adicional entre instituciones e instructores, pero se investigarán más a fondo
-- "Maldición de la dimensionalidad" en el lado del aprendizaje automático
-- Rendimiento de agrupamiento frente a significado semántico
-    - el agrupamiento es necesario, pero no suficiente, para el significado semántico
-    - el significado semántico de los grupos de PNL aún no se ha estudiado rigurosamente
+- O estudo usa dados existentes de estudos anteriores coletados de muitas turmas de tamanhos variados
+    - nem uma única classe grande
+    - esperamos que os resultados observados sejam conservadores devido à variabilidade adicional entre instituições e instrutores, mas serão investigados mais detalhadamente
+- "Maldição da dimensionalidade" no lado do aprendizado de máquina
+- Desempenho de cluster versus significado semântico
+    - o agrupamento é necessário, mas não suficiente, para o significado semântico
+    - significado semântico de clusters de PNL ainda não estudados rigorosamente
 
 # Referências (1/2)
 
