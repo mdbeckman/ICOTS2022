@@ -13,10 +13,18 @@ Research suggests “write-to-learn” tasks improve learning outcomes, yet cons
 
 ## Resource List
 
+|: English :|: Espanol :|: Portugues :|
+|-----------|-----------|-------------|
+| [ Slides (PDF)](docs/202209-scalable-formative-assessment-English.pdf) | [Diapositivas (PDF)]() | [ Slides (PDF)]() |
+| [Paper (PDF)](docs/ISCOTS-Paper.pdf)) | [Manuscrito (Ingles; PDF)](docs/ISCOTS-Paper.pdf)) | [Manuscrito (Ingles; PDF)](docs/ISCOTS-Paper.pdf)) |
+| [Another Resource (Link)]() | [Another Resource (Link)]() | [Another Resource (Link)]() |
+
+
+
   - [Presentation Slides (English; PDF)](docs/202209-scalable-formative-assessment-English.pdf)
   - [Diapositivas de presentación (Espanol; PDF)]()
   - [Slides de apresentação (Portugues; PDF)]()
-  - [Paper | Manuscrito | Manuscrito (English; PDF)](docs/ISCOTS-Paper.pdf))
+  - [Paper / Manuscrito / Manuscrito (English; PDF)](docs/ISCOTS-Paper.pdf))
   - [Another Resource (Link)]()
 
 
