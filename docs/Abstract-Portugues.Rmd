@@ -1,0 +1,14 @@
+---
+title: "Fundamentos para la retroalimentación de evaluación formativa asistida por IA para tareas de respuesta corta en clases de inscripción grande"
+subtitle: "[Tradução do Google do Inglesa]"
+author: |
+  | Matthew Beckman
+  | Penn State University
+date: "13 Setembro, 2022"
+output: pdf_document
+---
+
+# Resumo
+
+Pesquisas sugerem que tarefas “escrever para aprender” melhoram os resultados de aprendizagem, mas os métodos de avaliação formativa de resposta construída tornam-se difíceis de manejar com turmas grandes. Este estudo avalia algoritmos de processamento de linguagem natural para atender a esse objetivo. Seis tarefas de resposta curta concluídas por 1.935 alunos foram pontuadas por vários avaliadores humanos usando uma rubrica detalhada e um algoritmo. Os resultados indicam concordância substancial entre avaliadores usando kappa ponderado quadrático para pares de avaliadores (cada QWK > 0,74) e consenso do grupo (Kappa de Fleiss = 0,68). Além disso, a concordância intra-avaliador foi estimada para um avaliador que havia pontuado 178 respostas sete anos antes (QWK = 0,88). Com um acordo convincente do avaliador, o estudo então conduz a análise de cluster do texto de resposta para permitir que os instrutores atribuam significado aos clusters como um meio de avaliação formativa escalável.
+
