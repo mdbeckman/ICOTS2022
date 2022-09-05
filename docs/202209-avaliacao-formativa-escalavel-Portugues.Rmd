@@ -27,7 +27,7 @@ library(kableExtra)
 
 ```
 
-# Whova Poll (e acesso à página de recursos)
+# Whova Poll (e página de recursos)
 
 *Como você descreveria o valor da avaliação formativa?*
 
@@ -57,7 +57,7 @@ library(kableExtra)
 
 
 - A colaboração homem-máquina é um mecanismo promissor para auxiliar o feedback rápido e individualizado em escala (Basu, 2013)
-- Processamento de linguagem natural (NLP) envolve como os computadores podem ser programados para analisar elementos de linguagem (por exemplo, texto ou fala)
+- Processamento de linguagem natural (PNL) envolve como os computadores podem ser programados para analisar elementos de linguagem (por exemplo, texto ou fala)
 - O feedback assistido pela PNL foi estudado anteriormente para ensaios ou tarefas de resposta longa (ver, por exemplo, Attali, et al., 2008; Page, 1994)
 
 
@@ -78,13 +78,13 @@ library(kableExtra)
 Susan Lloyd, Matthew Beckman, Dennis Pearl, Rebecca Passonneau, Zhaohui Li, & Zekun Wang (accepted). Foundations of NLP-assisted formative assessment feedback for short-answer tasks in large enrollment statistics classes. Preprint URL: <http://arxiv.org/abs/2205.02829>
 
 
-# Spoiler?!
+# Spoilers?!
 
 - **RQ1**: Que nível de concordância é alcançado entre os avaliadores humanos treinados que rotulam (ou seja, pontuam) tarefas de resposta curta?
 
 - **RQ2**: Que nível de concordância é alcançado entre avaliadores humanos e um algoritmo de PNL?
 
-- **RQ3**: Que tipo de representação NLP leva a um bom desempenho de clustering e como isso interage com o algoritmo de classificação?
+- **RQ3**: Que tipo de representação PNL leva a um bom desempenho de clustering e como isso interage com o algoritmo de classificação?
 
 ### *Spoilers?!*
 - RQ1: acordo substancial entre avaliadores e intraavaliadores
@@ -182,9 +182,9 @@ Interpretação de confiabilidade[^3]: 0,6 < substancial < 0,8 < quase perfeito 
 [^3]: Viera & Garrett (2005)
 
 
-# Resultados (máquinas RQ3)
+# Resultados (RQ3 máquinas)
 
-**RQ3**: Que tipo de representação de NLP leva a um bom desempenho de clustering e como isso interage com o algoritmo de classificação?
+**RQ3**: Que tipo de representação de PNL leva a um bom desempenho de clustering e como isso interage com o algoritmo de classificação?
 
 - SFRN aprende uma representação vetorial de alta dimensão (D = 512) nos dados de treinamento.
 - Experimentos com agrupamento K-means e K-medoids mostraram que o SFRN produz agrupamentos mais consistentes quando treinado novamente (0,62), em comparação com outros classificadores.[^4]
@@ -192,7 +192,7 @@ Interpretação de confiabilidade[^3]: 0,6 < substancial < 0,8 < quase perfeito 
 
 [^4]: A consistência é medida como a proporção de todos os pares de respostas em uma determinada classe por pergunta que são agrupadas da mesma maneira em duas execuções (no mesmo agrupamento ou não no mesmo agrupamento).
 
-# Resultados (humanos RQ3)
+# Resultados (RQ3 humanos)
 
 ![Tabulação cruzada da distribuição do feedback para os dois revisores para o feedback inicial (esquerda) em comparação com a mesma análise para a parte do feedback relacionada ao conceito estatístico em questão (direita).](ConfusionMatrices_Q2B.png){width=95%}
 
