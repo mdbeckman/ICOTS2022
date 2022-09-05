@@ -209,7 +209,7 @@ Reliability interpretation[^3]: 0.6 < substantial < 0.8 < near perfect < 1.0
 - **RQ3**: Classification and clustering have competing incentives for dimensionality; Low D is better for cluster stability, High D better for classification reliability.
 
 
-### Future work:
+# Future work
 
 - Study uses extant data from prior study collected from many classes of varying size
     - not a single large class 

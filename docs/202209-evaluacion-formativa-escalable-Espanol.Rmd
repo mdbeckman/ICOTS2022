@@ -152,7 +152,7 @@ Piloto manual de agrupamiento generado por humanos
 
 Interpretación de confiabilidad[^1]: 0,6 < sustancial < 0,8 < casi perfecto < 1,0
 
-[^ 1]: Viera y Garrett (2005)
+[^1]: Viera y Garrett (2005)
 
 
 # Resultados (RQ2)
@@ -191,7 +191,7 @@ Interpretación de confiabilidad[^3]: 0,6 < sustancial < 0,8 < casi perfecto < 1
 
 ![Tabulación cruzada de la distribución de retroalimentación para los dos revisores para la retroalimentación inicial (izquierda) en comparación con el mismo análisis para la porción de retroalimentación relacionada con el concepto estadístico en cuestión (derecha).](ConfusionMatrices_Q2B.png){width=95%}
 
-- El revisor 1 favoreció la retroalimentación sobre conceptos estadísticos (únicamente).
+- El revisor 1 favoreció la retroalimentación sobre conceptos estadísticos (solo).
 - El revisor 2 proporcionó lo mismo, más una cita del estudiante
 - El Revisor 2 analizó sus comentarios para comparar sus comentarios relacionados con los conceptos estadísticos (solo) con los comentarios del Revisor 1.
 
@@ -205,7 +205,7 @@ Interpretación de confiabilidad[^3]: 0,6 < sustancial < 0,8 < casi perfecto < 1
 - **RQ3**: La clasificación y el agrupamiento tienen incentivos que compiten por la dimensionalidad; Low D es mejor para la estabilidad del grupo, High D es mejor para la confiabilidad de la clasificación.
 
 
-### Trabajo futuro:
+# Trabajo Futuro
 
 - El estudio utiliza datos existentes de estudios anteriores recopilados de muchas clases de diferentes tamaños
     - ni una sola clase grande
