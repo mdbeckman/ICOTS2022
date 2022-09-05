@@ -19,7 +19,7 @@ Research suggests “write-to-learn” tasks improve learning outcomes, yet cons
   - [Diapositivas de presentación (Ingles con Español; PDF)](docs/202209-Slides-English-Spanish.pdf)
   - [Slides de apresentação (Português; PDF)](docs/202209-avaliacao-formativa-escalavel-Portugues.pdf)
   - [Slides de apresentação (Inglês com Português; PDF)](docs/202209-Slides-English-Portuguese.pdf)
-  - [Paper / Manuscrito (English; PDF)](docs/ISCOTS-Paper.pdf))
+  - [Preprint / Manuscrito (English; PDF)](docs/ISCOTS-Paper.pdf))
 
 ![https://mdbeckman.github.io/ICOTS2022/](ICOTS-QRcode.png)
 
