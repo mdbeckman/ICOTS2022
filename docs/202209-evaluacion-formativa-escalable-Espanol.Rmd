@@ -81,11 +81,11 @@ Susan Lloyd, Matthew Beckman, Dennis Pearl, Rebecca Passonneau, Zhaohui Li, & Ze
 
 - **RQ2**: ¿Qué nivel de acuerdo se logra entre evaluadores humanos y un algoritmo de PNL?
 
-- **RQ3**: ¿Qué tipo de representación de NLP conduce a un buen rendimiento de agrupación y cómo interactúa eso con el algoritmo de clasificación?
+- **RQ3**: ¿Qué tipo de representación de PNL conduce a un buen rendimiento de agrupación y cómo interactúa eso con el algoritmo de clasificación?
 
 ### *¡¿Spoilers?!*
 - RQ1: acuerdo sustancial entre evaluadores e intraevaluadores
-- RQ2: acuerdo sustancial entre el etiquetado humano y NLP
+- RQ2: acuerdo sustancial entre el etiquetado humano y PNL
 - RQ3: en progreso, pero prometedor
 
 # Métodos (Muestra)
@@ -177,9 +177,9 @@ Interpretación de confiabilidad[^3]: 0,6 < sustancial < 0,8 < casi perfecto < 1
 [^3]: Viera y Garrett (2005)
 
 
-# Resultados (máquinas RQ3)
+# Resultados (RQ3 máquinas)
 
-**RQ3**: ¿Qué tipo de representación de NLP conduce a un buen rendimiento de agrupación y cómo interactúa eso con el algoritmo de clasificación?
+**RQ3**: ¿Qué tipo de representación de PNL conduce a un buen rendimiento de agrupación y cómo interactúa eso con el algoritmo de clasificación?
 
 - SFRN aprende una representación vectorial de gran dimensión (D = 512) en los datos de entrenamiento.
 - Los experimentos con el agrupamiento de K-means y K-medoids mostraron que SFRN produce agrupaciones más consistentes cuando se vuelve a entrenar (0,62), en comparación con otros clasificadores.[^4]
@@ -194,6 +194,7 @@ Interpretación de confiabilidad[^3]: 0,6 < sustancial < 0,8 < casi perfecto < 1
 - El revisor 1 favoreció la retroalimentación sobre conceptos estadísticos (únicamente).
 - El revisor 2 proporcionó lo mismo, más una cita del estudiante
 - El Revisor 2 analizó sus comentarios para comparar sus comentarios relacionados con los conceptos estadísticos (solo) con los comentarios del Revisor 1.
+
 
 # Discusión
 
